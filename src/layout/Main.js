@@ -1,7 +1,8 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
-import Footer from '../Pages/shered/Footer/Footer';
 import Header from '../Pages/shered/Header/Header';
+import Footer from '../Pages/shered/Footer/Footer';
+
 
 const Main = () => {
     return (
